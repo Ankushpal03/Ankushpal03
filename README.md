@@ -1,24 +1,27 @@
-# 👋 Hi, I'm Ankush Pal!  
+  # 👋 Hi, I'm Ankush Pal!  
 
 🚀 **Aspiring Data Analyst | MIS Executive | Data Enthusiast**  
 
-Welcome to my GitHub profile! I am a **fresher** passionate about **data analysis, visualization, and reporting**. I love working with data to uncover insights and create meaningful visual stories. Currently, I am expanding my skills in **SQL, Python, Excel, Power BI, and Tableau** to build a strong foundation in the field.  
+Welcome to my GitHub profile! I am a **highly motivated fresher** with a strong passion for **data analysis, visualization, and reporting**. I enjoy working with data to uncover insights, drive decision-making, and create meaningful visualizations. Currently, I am expanding my expertise in **SQL, Python, Excel, Power BI, and Tableau** to build a solid foundation in the field.  
 
-## 🔥 What I’m Learning & Working On  
-- 📊 **Data Analysis** – Extracting, cleaning, and analyzing data for business insights  
-- 📈 **Data Visualization** – Creating interactive dashboards using Power BI and Tableau  
-- 🛠 **Technical Skills** – Python, SQL, Excel, Power BI, Tableau  
+## 📊 Skills & Expertise  
+- **Data Analysis & Reporting** – Extracting, cleaning, and analyzing data for actionable insights  
+- **Data Visualization** – Designing interactive dashboards using Power BI and Tableau  
+- **Database Management** – Querying and handling structured data with SQL  
+- **Microsoft Excel & Automation** – Advanced Excel functions, Pivot Tables, and VBA for reporting  
 
-## 📂 Explore My Work  
-Check out my repositories showcasing projects in:  
+## 📂 Projects & Work  
+Explore my repositories showcasing work in:  
 ✅ **Data Cleaning & Transformation**  
-✅ **Dashboard Creation & Visualization**  
-✅ **Excel & SQL-based Analysis**  
+✅ **Interactive Dashboards & Visualizations**  
+✅ **Excel & SQL-based Data Analysis**  
+✅ **Business Reporting & Automation**  
 
-## 💡 Let's Connect!  
-📫 Email: [ankush53425@gmail.com](mailto:ankush53425@gmail.com)  
-🌐 
+## 🌟 Continuous Learning  
+I am always eager to learn new technologies and improve my analytical skills. Currently, I am focusing on:  
+- Advanced SQL techniques  
+- Python for data analysis & automation  
+- Enhancing dashboard storytelling  
 
----
-
-Let me know if you want to add anything else!
+## 📬 Let's Connect!  
+📧 Email: [ankush53425@gmail.com](mailto:ankush53425@gmail.com)  
